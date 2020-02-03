@@ -9,9 +9,6 @@ main() {
   eventsList=[];
   processRawData();
  
-  
- 
-  //; 
 }
 
 Map siteToShortName = {
