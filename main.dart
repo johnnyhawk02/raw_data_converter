@@ -2,11 +2,10 @@ import 'dart:io';
 // for step 3:
 import 'dart:async';
 import 'dart:convert';
-List eventsList;
-//import 'event_data.dart' show eventsList;
-
+ List eventsList=[];
+ 
 main() {
-  eventsList=[];
+ 
   processRawData();
  
 }
