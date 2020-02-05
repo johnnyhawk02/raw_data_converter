@@ -8,12 +8,7 @@ Main Pool
 
 Meadows Leisure Centre
 Public Swim
-Main Pool
-06:30 - 09:00
-
-Meadows Leisure Centre
-Public Swim
-Learner Pool
+Main Pool & Learner Pool
 06:30 - 09:00
 
 Meadows Leisure Centre
@@ -886,12 +881,7 @@ Les Mills Sprint
 
 Meadows Leisure Centre
 Swim & Splash
-Main Pool **50% discount Friday Night Swim & Splash**
-19:00 - 20:00
-
-Meadows Leisure Centre
-Swim & Splash
-Learner Pool **50% discount Friday Night Swim & Splash**
+Main Pool & Learner Pool **50% discount Friday Night Swim & Splash**
 19:00 - 20:00
 
 Meadows Leisure Centre
@@ -988,12 +978,7 @@ Youth Applicable
 
 Meadows Leisure Centre
 Swim & Splash
-Main Pool
-15:00 - 17:00
-
-Meadows Leisure Centre
-Swim & Splash
-Learner Pool
+Main Pool & Learner Pool
 15:00 - 17:00
 
 Meadows Leisure Centre
@@ -1060,12 +1045,12 @@ Youth Applicable
 
 Meadows Leisure Centre
 Swim & Splash
-Main Pool
+Main Pool & Learner Pool
 13:00 - 14:00
 
 Meadows Leisure Centre
 Juniors £1 swim
-Learner Pool
+Main Pool & Learner Pool
 14:00 - 15:00
 
 Meadows Leisure Centre
